@@ -1,0 +1,24 @@
+body {
+    background-color:powderblue;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+h2 {
+    font-stretch:ultra-expanded;
+    font-family:fantasy,blippo;
+    font-size: 50px;
+}
+p {
+    font-family:fantasy,Impact;
+    font-size: 50px;
+    color:darkred;
+}
+button {
+    font-size:40px;
+    font-family:fantasy,Impact
+}
